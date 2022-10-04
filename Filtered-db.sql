@@ -1,3 +1,5 @@
+--Select columns university, career, first_name, last_name, sexo, birth_date, localidad and email for each table.
+	-- Normalize with requirements assigned by the academy
 SELECT
 	university, 
 	career,
